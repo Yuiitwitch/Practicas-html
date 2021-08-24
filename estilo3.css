@@ -1,0 +1,36 @@
+.General{
+    background-color: red;
+    font-size: 80px;
+    Color: white;
+    
+}
+
+.Titulo1{
+    background-color: #f5f5dc;
+}
+.Titulo2{
+    font-size: 100px;
+}
+
+.minititulo{
+    font-size: 25px;
+}
+/* Texto en columnas */
+
+.texto1{
+    display:grid;
+    grid-template-columns: 10% 10% 10%;
+    grid-template-rows: auto auto;
+    gap: 1em;
+    text-align: left;
+    font-size: 25px;
+    border-left: 6px solid red;
+}
+
+.texto1a{
+    font-family: monospace;
+}
+.texto1b{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', normal;
+    color:red;
+}

@@ -1,0 +1,19 @@
+.negra{
+    VSPACE: 20px;
+    background-color: black;
+    align-self: center;
+}
+.blanca{
+    background-color: white;
+    
+}
+.Ajedrez{
+ width: 400px;
+ height :400px;
+ border: 0;
+ border-spacing: 2;
+ background-color: #000000;
+}
+.top{
+    background-color: black;
+}
